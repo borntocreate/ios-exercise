@@ -19,7 +19,7 @@ Develop a basic ios app using `XCode` with `Swift` implementing the following fe
 
 ## API
 
-The API can be found under `http://exercise.born-to-create.de/` and has the following routes:
+The API can be found under `http://excercise.born-to-create.de/` and has the following routes:
 
 ### GET /posts
 
